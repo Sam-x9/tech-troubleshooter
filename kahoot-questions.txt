@@ -1,0 +1,57 @@
+TECH TROUBLESHOOTER - KAHOOT QUESTION SET
+Six multiple-choice questions. Suggested time: 30 seconds each.
+Create these questions manually in your Kahoot account.
+
+1. One website will not load.
+Other websites open normally on the same laptop. What is the best next step?
+A. Factory-reset the router
+B. Investigate that website or app
+C. Replace the Wi-Fi adapter
+D. Reinstall the operating system
+Correct answer: B
+Explanation: Other sites working suggests the problem is narrower than a complete internet outage. Check that site or app before changing the whole network.
+
+2. Your laptop is offline. Your phone is not.
+The phone can browse on the same Wi-Fi, with mobile data turned off. Where would you focus first?
+A. Your laptop and its connection
+B. A complete outage of the whole network
+C. Buying a new router immediately
+D. Restarting the school network
+Correct answer: A
+Explanation: A working device on the same Wi-Fi is a useful clue. Check the laptop’s connection and settings before assuming the whole network is down.
+
+3. Many tabs. One slow browser.
+Your browser is slow, but other apps respond normally. What should you try first?
+A. Download a random speed booster
+B. Delete unfamiliar system files
+C. Save work and close unneeded tabs
+D. Replace the computer immediately
+Correct answer: C
+Explanation: Start with the affected app. Closing unneeded tabs after saving work is a small, reversible step you can test.
+
+4. An unfamiliar process uses a lot of memory.
+You notice it in Task Manager on your school computer. What is the safest next step?
+A. End every process in the list
+B. Disable security software
+C. Delete the program’s system folder
+D. Identify the process or ask IT before ending it
+Correct answer: D
+Explanation: High resource use does not tell you whether a process is safe to stop. Unknown system or managed processes should be identified before changing them.
+
+5. Print produced a PDF file.
+You expected a paper copy, but your computer asked where to save a PDF. What should you check?
+A. The Wi-Fi password
+B. The selected print destination
+C. The keyboard settings
+D. The monitor cable
+Correct answer: B
+Explanation: A PDF destination saves a file. Choose the intended physical printer in the print dialog.
+
+6. You have tried one change.
+You reconnected the laptop to Wi-Fi. What should you do next?
+A. Change three more settings
+B. Assume the problem is solved
+C. Repeat the original task and note the result
+D. Reset every device nearby
+Correct answer: C
+Explanation: Testing tells you whether that change helped. One change at a time makes the result easier to understand.
